@@ -29,6 +29,7 @@ Step 10: Connect the power supply
 Step 11: Finish the computer assembly
 
 PROCEDURE:
+
 Step 1: Open The Case
 To Open the case. Unscrew the side panel (or slide it toward the back of the case) to do so.
 
