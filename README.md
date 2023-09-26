@@ -105,4 +105,5 @@ b. Many cases will have a panel which either slides back into place or screws on
 ![11](https://github.com/Divya110205/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/119404855/86d59c52-5e1f-41df-ad7e-bc814528fe34)
 
 RESULT:
+
 The Computer System has been successfully assembled
